@@ -1,7 +1,5 @@
 # Syafino
 
-**Computer Science & Statistics @ UIUC**
-
 Building AI systems that solve real problems — from on-device ML to agentic RAG pipelines.
 
 <p align="left">
