@@ -1,6 +1,6 @@
 # Syafino
 
-Building AI systems that solve real problems — from on-device ML to agentic RAG pipelines.
+Building
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syafino&color=6366f1&style=flat" alt="Profile Views" />
