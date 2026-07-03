@@ -52,19 +52,6 @@ Building
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syafino&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syafino&theme=tokyonight" alt="Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syafino&theme=tokyonight&utcOffset=8" alt="Productive Time" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syafino&theme=tokyonight" alt="Top Languages by Repo" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syafino&theme=tokyonight" alt="Top Languages by Commit" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=syafino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
