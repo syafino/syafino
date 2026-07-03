@@ -8,16 +8,6 @@ Building
 
 ---
 
-## Currently Building
-
-**[Framelight.ai](https://framelight.ai)** — AI Mobile Camera Composition Assistant  
-On-device aesthetic scoring using fine-tuned MobileNetV2 with synthetic data pipelines
-
-**ParaCite** — Auto-Citation Assistant for Academic Writing  
-RAG-based system with vector search, reranking, and metadata indexing for in-text citations
-
----
-
 ## Tech Stack
 
 **Languages**  
@@ -49,14 +39,6 @@ RAG-based system with vector search, reranking, and metadata indexing for in-tex
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Framelight** | On-device aesthetic scoring engine with pairwise ranking loss and real-time crop-and-rank inference | PyTorch, TensorFlow, OpenCV, React |
-| **MCP Server** | Persistent long-term AI memory system for structured user profiling and contextual recall | TypeScript, Node.js, JSON-RPC |
-| **Text-to-SQL Agent** | Sandboxed SQL-evaluation framework with pre-execution hallucination checks | Python, PostgreSQL, Docker |
 
 **Awards**  
 - 2nd Place — Claude Hackathon (UIUC) — MCP Server  
