@@ -40,12 +40,6 @@ Building
 
 ---
 
-**Awards**  
-- 2nd Place — Claude Hackathon (UIUC) — MCP Server  
-- 2nd Place — Berkeley AgentX Hackathon (40,000+ participants) — Text-to-SQL Agent
-
----
-
 ## GitHub Stats
 
 <p align="center">
