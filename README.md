@@ -1,6 +1,6 @@
-# Syafino
+# Not building for humans
 
-Not building for humans
+Syafino Y
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syafino&color=6366f1&style=flat" alt="Profile Views" />
