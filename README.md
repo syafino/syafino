@@ -1,4 +1,4 @@
-# Not building for humans
+# backed by god
 
 Syafino Y
 
