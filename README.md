@@ -1,7 +1,5 @@
 # backed by god
 
-Syafino Y
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syafino&color=6366f1&style=flat" alt="Profile Views" />
 </p>
